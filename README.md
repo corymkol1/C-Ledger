@@ -3,6 +3,8 @@
 A command-line bookkeeping application written in C for managing
 small-business financial transactions.
 
+** To see it in action, visit the screenshots folder **
+
 ## Features
 
 - Add income and expenses
